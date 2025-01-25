@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in PHP programming: unexpected type juggling and property access.  The `bug.php` file contains code that exemplifies the problem. The solution, found in `bugSolution.php`, shows how to improve type handling and avoid unexpected behavior.
